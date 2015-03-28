@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/deveshmittal1/Downloads/TrendsApp/volley/src/main/res"/><source path="/Users/deveshmittal1/Downloads/TrendsApp/volley/build/generated/res/rs/debug"/><source path="/Users/deveshmittal1/Downloads/TrendsApp/volley/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/Users/deveshmittal1/Downloads/TrendsApp/volley/src/debug/res"/></dataSet><mergedItems/></merger>
